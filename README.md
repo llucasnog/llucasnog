@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/5f7452d9-8eae-4312-956a-7753250b0ad1" />
+<img width="1983" height="793" alt="banner-ingles" src="https://github.com/user-attachments/assets/4e72680c-3acd-432b-a265-8e2b60d0cd5c" />
 
 
 # 👋 Hi, I'm Lucas Nogueira
