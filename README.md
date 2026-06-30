@@ -1,7 +1,8 @@
 
+
 <div align="center">
 
-<img src="banner-github.png" width="100%">
+<img src="<img width="1983" height="793" alt="banner-github" src="https://github.com/user-attachments/assets/5f7452d9-8eae-4312-956a-7753250b0ad1" />" width="100%">
 
 
 # 👋 Hi, I'm Lucas Nogueira
