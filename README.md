@@ -108,7 +108,7 @@ Building solid software from the fundamentals.
 
 <p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas--nogueira/)
+<a href="https://www.linkedin.com/in/lucas--nogueira/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
