@@ -2,7 +2,6 @@
 <div align="center">
 
 <img width="1983" height="793" alt="banner-github" src="https://github.com/user-attachments/assets/ea354f0a-6106-49ac-b053-dfbd1a0a1b78" />"
-alt="Banner"/>
 
 # 👋 Hi, I'm Lucas Nogueira
 
